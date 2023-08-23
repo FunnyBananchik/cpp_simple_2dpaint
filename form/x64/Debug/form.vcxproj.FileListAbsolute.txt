@@ -1,0 +1,4 @@
+C:\Users\Aspire\Desktop\form\form\x64\Debug\form.vcxproj.AssemblyReference.cache
+C:\Users\Aspire\Desktop\form\form\x64\Debug\form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Aspire\Desktop\form\form\x64\Debug\form.MyForm.resources
+C:\Users\Aspire\Desktop\form\form\x64\Debug\form.vcxproj.GenerateResource.cache
